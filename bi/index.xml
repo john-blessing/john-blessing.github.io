@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1. Bi on 产品功能</title>
+    <link>https://john-blessing.github.io/bi/</link>
+    <description>Recent content in 1. Bi on 产品功能</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jun 2020 08:57:46 +0800</lastBuildDate>
+    
+	<atom:link href="https://john-blessing.github.io/bi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>https://john-blessing.github.io/bi/test/</link>
+      <pubDate>Mon, 22 Jun 2020 08:58:15 +0800</pubDate>
+      
+      <guid>https://john-blessing.github.io/bi/test/</guid>
+      <description>this is Bi test </description>
+    </item>
+    
+  </channel>
+</rss>
