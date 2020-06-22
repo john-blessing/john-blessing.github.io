@@ -3,36 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://john-blessing.github.io/bi/test/</loc>
-    <lastmod>2020-06-22T08:58:15+08:00</lastmod>
+    <loc>https://john-blessing.github.io/bi%E5%8A%9F%E8%83%BD%E6%A8%A1%E5%9D%97/</loc>
+    <lastmod>2020-06-22T09:20:29+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://john-blessing.github.io/bi/</loc>
-    <lastmod>2020-06-22T08:57:46+08:00</lastmod>
+    <loc>https://john-blessing.github.io/%E6%99%BA%E8%83%BD%E7%A1%AC%E4%BB%B6%E5%8A%9F%E8%83%BD%E6%A8%A1%E5%9D%97/%E6%89%8B%E6%9C%BAapp/</loc>
+    <lastmod>2020-06-22T09:19:23+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://john-blessing.github.io/post/about/</loc>
-    <lastmod>2020-06-22T08:57:16+08:00</lastmod>
+    <loc>https://john-blessing.github.io/%E6%99%BA%E8%83%BD%E7%A1%AC%E4%BB%B6%E5%8A%9F%E8%83%BD%E6%A8%A1%E5%9D%97/%E9%A1%B9%E7%9B%AE%E5%B1%82pc/</loc>
+    <lastmod>2020-06-22T09:19:17+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://john-blessing.github.io/post/</loc>
-    <lastmod>2020-06-22T08:56:34+08:00</lastmod>
+    <loc>https://john-blessing.github.io/%E6%99%BA%E8%83%BD%E7%A1%AC%E4%BB%B6%E5%8A%9F%E8%83%BD%E6%A8%A1%E5%9D%97/%E4%BC%81%E4%B8%9A%E5%B1%82pc/</loc>
+    <lastmod>2020-06-22T09:19:05+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://john-blessing.github.io/</loc>
+    <loc>https://john-blessing.github.io/%E6%99%BA%E8%83%BD%E7%A1%AC%E4%BB%B6%E5%8A%9F%E8%83%BD%E6%A8%A1%E5%9D%97/</loc>
+    <lastmod>2020-06-22T09:18:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john-blessing.github.io/bi%E5%8A%9F%E8%83%BD%E6%A8%A1%E5%9D%97/%E6%89%8B%E6%9C%BAweb/</loc>
+    <lastmod>2020-06-22T09:18:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john-blessing.github.io/bi%E5%8A%9F%E8%83%BD%E6%A8%A1%E5%9D%97/%E9%A1%B9%E7%9B%AE%E5%B1%82web/</loc>
+    <lastmod>2020-06-22T09:17:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john-blessing.github.io/bi%E5%8A%9F%E8%83%BD%E6%A8%A1%E5%9D%97/%E4%BC%81%E4%B8%9A%E5%B1%82web/</loc>
+    <lastmod>2020-06-22T09:16:54+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john-blessing.github.io/</loc>
     <lastmod>2020-06-22T08:56:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://john-blessing.github.io/categories/</loc>
+    <loc>https://john-blessing.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://john-blessing.github.io/tags/</loc>
+    <loc>https://john-blessing.github.io/tags/</loc>
   </url>
   
 </urlset>
